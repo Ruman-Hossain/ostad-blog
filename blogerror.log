@@ -1,0 +1,1 @@
+{"level":"error","message":"Server selection timed out after 30000 ms","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":30,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-jd8o0i-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"timestamp":"2023-05-27T15:58:51.153Z"}
